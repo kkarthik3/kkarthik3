@@ -47,6 +47,14 @@ Data Scientist | Data Analyst | ML Engineer
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" alt="AWS" style="width: 110px; height: 65px; margin-right: 50px;"/>
   </a>
+    <a href="https://flask.palletsprojects.com/en/3.0.x/api/" target="_blank" rel="noreferrer">
+    <img src="https://qph.cf2.quoracdn.net/main-qimg-ad2e0a65df473c4af55ad8c9699bbfd8" alt="Flask" style="width: 110px; height: 65px; margin-right: 50px;"/>
+  </a>
+      <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDs9QclC0zX2p9aG-fdkfHoG_tYO-_3uYz5A&s" alt="Fastapi" style="width: 110px; height: 65px; margin-right: 50px;"/>
+    <a href="https://hub.docker.com/u/kkarthik31" target="_blank" rel="noreferrer">
+    <img src="https://oneclick-cloud.com/wp-content/uploads/2023/08/Bigstock_-139961875-Docker-Emblem.-A-Blue-Whale-With-Several-Containers.-e1574090673987-1.jpg" alt="Docker" style="width: 110px; height: 65px; margin-right: 50px;"/>
+  </a>
 </div>
 
 
